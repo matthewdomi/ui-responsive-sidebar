@@ -15,7 +15,7 @@ import {
   HelpCircleOutline,
   BriefcaseVariantOutline,
 } from 'mdi-material-ui';
-import Sidebar from '../components/Admin/sidebar';
+import Sidebar from '../components/Admin/Sidebar';
 
 export default function Home({ children }) {
   return (
